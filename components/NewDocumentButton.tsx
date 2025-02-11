@@ -1,5 +1,7 @@
+import { Button } from "./ui/button";
+
 function NewDocumentButton() {
-  return <div>NewDocumentButton</div>;
+  return <Button>New Document</Button>;
 }
 
 export default NewDocumentButton;
