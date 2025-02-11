@@ -1,5 +1,11 @@
+import NewDocumentButton from "./NewDocumentButton";
+
 function Sidebar() {
-  return <div>Sidebar</div>;
+  return (
+    <div>
+      <NewDocumentButton />
+    </div>
+  );
 }
 
 export default Sidebar;
