@@ -37,3 +37,5 @@ next-env.d.ts
 
 # firebase
 service_key.json
+firebase.ts 
+firebase-admin.ts
